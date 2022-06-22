@@ -1,5 +1,20 @@
  body {
-     color:black;
-     text-align: center; /* definimos la alineacion del texto*/
+     color: #333;
+     text-align:center; /* definimos la alineacion del texto*/
      font-family: "Arial"; /*tipo de letra*/
- }           
+     font-size: 16px; /* tamaño de la funete */
+ }        
+ 
+ #container{ /* creamos la caja */
+     width: 70%; /* definimos el ancho de cuadro*/
+     padding: 1em; /* distancia del texto y el cuadro */
+     text-align: left;/*alieacion del texto*/
+     border: 1px solid #ddd; /* para ver el borde*/
+     margin: 0% auto;/*para que se cetre*/
+
+ }
+
+ #container h1{
+
+    font-size: 20px; /*bajamos un poco el tamaño del titulo h1*/
+ }
