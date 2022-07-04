@@ -1,20 +1,28 @@
  body {
-     color: red;
+     color: #333;
+     background: #1e1f24; /* definimos el color de todo el fondo */
      text-align:center; /* definimos la alineacion del texto*/
      font-family: arial; /*tipo de letra*/
      font-size: 16px; /* tamaño de la funete */
+     margin: 0;
+     padding: 0;
  }        
  
  #cabecera{
-     background: #33a;
+     background: #37488b;
      box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
      font-weight: bold;
      color: white;
      padding: 0.5em;
      margin: 0;
 
-
  }
+
+ #cabecera #logo{
+     width: 20px;
+     vertical-align: middle; /* alineado el logo a la mitad */
+    
+}
  #cabecera #tagline{
      padding: 0 0 0 1em;
      
@@ -33,4 +41,8 @@
  #container h1{
 
     font-size: 20px; /*bajamos un poco el tamaño del titulo h1*/
+ }
+ #post {
+     background: white; /*agregamos el fondo del post */
+     padding: 1em;
  }
