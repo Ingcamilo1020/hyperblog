@@ -1,9 +1,5 @@
  body {
-<<<<<<< HEAD
      color: black;
-=======
-     color: #333;
->>>>>>> footer
      text-align:center; /* definimos la alineacion del texto*/
      font-family: arial; /*tipo de letra*/
      font-size: 16px; /* tamaño de la funete */
@@ -45,16 +41,17 @@
 
     font-size: 20px; /*bajamos un poco el tamaño del titulo h1*/
  }
-<<<<<<< HEAD
+
  #post {
      background: white; /*agregamos el fondo del post */
-     padding: 1em;
-=======
+     padding: 1em;}
+
 
  #footer{
     background: rgb(39, 26, 26);
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
+
  }
+ 
