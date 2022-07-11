@@ -9,3 +9,4 @@ Un blog  para el curso de Git y GitHub
 * El flujo de trabajo de  GitHub
 * Trabajo con Fork
 * Buenas practicas de trabajo en equipo 
+* creado por platzi
