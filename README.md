@@ -10,3 +10,4 @@ Un blog  para el curso de Git y GitHub
 * Trabajo con Fork
 * Buenas practicas de trabajo en equipo 
 * creado por platzi
+* incluye ejemplos para windows linux y mac
