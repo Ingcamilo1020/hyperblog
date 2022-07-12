@@ -11,3 +11,4 @@ Un blog  para el curso de Git y GitHub
 * Buenas practicas de trabajo en equipo 
 * creado por platzi
 * incluye ejemplos para windows linux y mac
+* disponible para todas las edades
